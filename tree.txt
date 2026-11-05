@@ -1,0 +1,118 @@
+.
+├── about.html
+├── admin
+│   ├── config.yml
+│   └── index.html
+├── assets
+│   ├── css
+│   │   └── style.css
+│   ├── img
+│   │   ├── apple-touch-icon.png
+│   │   ├── favicon.png
+│   │   ├── img_1_big.jpg
+│   │   ├── img_1.jpg
+│   │   ├── img_2.jpg
+│   │   ├── img_3.jpg
+│   │   ├── img_4.jpg
+│   │   ├── img_5.jpg
+│   │   ├── img_6.jpg
+│   │   ├── logo-adobe.png
+│   │   ├── logo-apple.png
+│   │   ├── logo-google.png
+│   │   ├── logo-netflix.png
+│   │   ├── logo-nike.png
+│   │   ├── logo-uber.png
+│   │   ├── person_1.jpg
+│   │   ├── person_1_sq.jpg
+│   │   ├── person_2.jpg
+│   │   └── person_3.jpg
+│   ├── js
+│   │   └── main.js
+│   ├── scss
+│   │   └── Readme.txt
+│   └── vendor
+│       ├── aos
+│       │   ├── aos.css
+│       │   └── aos.js
+│       ├── bootstrap
+│       │   ├── css
+│       │   │   ├── bootstrap.css
+│       │   │   ├── bootstrap.css.map
+│       │   │   ├── bootstrap-grid.css
+│       │   │   ├── bootstrap-grid.css.map
+│       │   │   ├── bootstrap-grid.min.css
+│       │   │   ├── bootstrap-grid.min.css.map
+│       │   │   ├── bootstrap-grid.rtl.css
+│       │   │   ├── bootstrap-grid.rtl.css.map
+│       │   │   ├── bootstrap-grid.rtl.min.css
+│       │   │   ├── bootstrap-grid.rtl.min.css.map
+│       │   │   ├── bootstrap.min.css
+│       │   │   ├── bootstrap.min.css.map
+│       │   │   ├── bootstrap-reboot.css
+│       │   │   ├── bootstrap-reboot.css.map
+│       │   │   ├── bootstrap-reboot.min.css
+│       │   │   ├── bootstrap-reboot.min.css.map
+│       │   │   ├── bootstrap-reboot.rtl.css
+│       │   │   ├── bootstrap-reboot.rtl.css.map
+│       │   │   ├── bootstrap-reboot.rtl.min.css
+│       │   │   ├── bootstrap-reboot.rtl.min.css.map
+│       │   │   ├── bootstrap.rtl.css
+│       │   │   ├── bootstrap.rtl.css.map
+│       │   │   ├── bootstrap.rtl.min.css
+│       │   │   ├── bootstrap.rtl.min.css.map
+│       │   │   ├── bootstrap-utilities.css
+│       │   │   ├── bootstrap-utilities.css.map
+│       │   │   ├── bootstrap-utilities.min.css
+│       │   │   ├── bootstrap-utilities.min.css.map
+│       │   │   ├── bootstrap-utilities.rtl.css
+│       │   │   ├── bootstrap-utilities.rtl.css.map
+│       │   │   ├── bootstrap-utilities.rtl.min.css
+│       │   │   └── bootstrap-utilities.rtl.min.css.map
+│       │   └── js
+│       │       ├── bootstrap.bundle.js
+│       │       ├── bootstrap.bundle.js.map
+│       │       ├── bootstrap.bundle.min.js
+│       │       ├── bootstrap.bundle.min.js.map
+│       │       ├── bootstrap.esm.js
+│       │       ├── bootstrap.esm.js.map
+│       │       ├── bootstrap.esm.min.js
+│       │       ├── bootstrap.esm.min.js.map
+│       │       ├── bootstrap.js
+│       │       ├── bootstrap.js.map
+│       │       ├── bootstrap.min.js
+│       │       └── bootstrap.min.js.map
+│       ├── bootstrap-icons
+│       │   ├── bootstrap-icons.css
+│       │   ├── bootstrap-icons.json
+│       │   ├── fonts
+│       │   │   ├── bootstrap-icons.woff
+│       │   │   └── bootstrap-icons.woff2
+│       │   └── index.html
+│       ├── isotope-layout
+│       │   ├── isotope.pkgd.js
+│       │   └── isotope.pkgd.min.js
+│       ├── php-email-form
+│       │   └── validate.js
+│       └── swiper
+│           ├── swiper-bundle.min.css
+│           ├── swiper-bundle.min.js
+│           └── swiper-bundle.min.js.map
+├── CNAME
+├── contact.html
+├── forms
+│   ├── contact.php
+│   └── Readme.txt
+├── images
+│   ├── 01-Rick&MortyAPI.jpeg
+│   ├── 01-Rick&MortyAPI.png
+│   ├── 02-gifexperapp.png
+│   └── 02-gifexperapp.png-small.jpeg
+├── index.html
+├── index.html.old
+├── Readme.txt
+├── services.html
+├── tree.txt
+├── works.html
+└── work-single.html
+
+19 directories, 97 files
